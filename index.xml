@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>cx&#39;s notes</title>
     <link>https://notes.cxcache.com/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://notes.cxcache.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>MAKE/BREAK</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hi@cxcache.com (fcx)</managingEditor>
+      <webMaster>hi@cxcache.com (fcx)</webMaster><lastBuildDate>Thu, 10 Feb 2022 14:35:10 &#43;0800</lastBuildDate>
+      <atom:link href="https://notes.cxcache.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://notes.cxcache.com/post/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.cxcache.com/post/welcome/</guid>
-      <description>Welcome </description>
-    </item>
-    
-  </channel>
+  <title>Welcome</title>
+  <link>https://notes.cxcache.com/welcome/</link>
+  <pubDate>Thu, 10 Feb 2022 14:35:10 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://notes.cxcache.com/welcome/</guid>
+  <description><![CDATA[]]></description>
+</item></channel>
 </rss>
